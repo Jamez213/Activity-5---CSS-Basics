@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: left 1px;
+    font-style:normal;
+}
+
+Header {
+    background-color: rgb(122, 121, 121) ;
+    padding: 5px;
+    margin:10px;
+    border-radius: 10px; 
+}
+
+.a-tag {
+    background-color:rgb(192, 188, 183);
+    padding:7px;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+p {
+    margin-left: 5px;
+}
